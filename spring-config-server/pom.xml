@@ -7,8 +7,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>insurance-config-server</name>
-    <description>insurance server</description>
+    <name>spring-config-server</name>
+    <description>spring config server</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
